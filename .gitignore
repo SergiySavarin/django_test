@@ -1,0 +1,6 @@
+.git
+*.pyc
+*~
+*.egg-info
+*.mo
+*.egg
